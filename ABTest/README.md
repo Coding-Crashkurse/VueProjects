@@ -5,3 +5,7 @@ Dieses Repository enthält 2 VueJS Apps mit verschiedenen Designs. Ein Endnutzer
 <br>
 
 Das `split_clients` directive sorgt dafür, dass der Traffic den darin angegebenen Prozentzahlen verteilt wird. In diesem Fall wird 80% vom Traffic auf App A und der Rest auf App B verteilt.
+
+<br>
+
+Das Projekt kann man einfach über `git clone` clonen und dann über `docker-compose up --build` starten.
